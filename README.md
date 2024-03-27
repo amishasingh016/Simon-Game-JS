@@ -17,7 +17,7 @@ This is a simple Simon game built with HTML, CSS, and JavaScript.
 
    # My Project
 
-Welcome to my project! You can find the live version [here]().
+Welcome to my project! You can find the live version [here](https://amishasingh016.github.io/Simon-Game-JS/).
 
 
 
