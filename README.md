@@ -15,3 +15,9 @@ This is a simple Simon game built with HTML, CSS, and JavaScript.
 
 1. Clone the repository:
 
+   # My Project
+
+Welcome to my project! You can find the live version [here]().
+
+
+
